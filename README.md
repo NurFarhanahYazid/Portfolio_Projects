@@ -1,4 +1,3 @@
 # **Data Analyst Portfolio Project**
 
-This repository holds all the projects that I learned from the Data Analyst Bootcamp by AlexTheAnalyst. 
-I will also be adding some of my personal projects to it, but it will take time to fully prepare them.
+This repository encompasses all the code and queries derived from the Portfolio Projects. Additionally, I plan to incorporate some of my personal projects into it, although their complete preparation will require a considerable amount of time.
